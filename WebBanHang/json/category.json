@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "60799dc7c2c96719708b475f"
+  },
+  "id": 8,
+  "name": "IPHONE",
+  "urlRewriteName": "iphone",
+  "isDeleted": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60799dd3c2c96719708b4760"
+  },
+  "id": 9,
+  "name": "SAMSUNG",
+  "urlRewriteName": "samsung",
+  "isDeleted": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60799de0c2c96719708b4761"
+  },
+  "id": 10,
+  "name": "XIAOMI",
+  "urlRewriteName": "xiaomi",
+  "isDeleted": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6162ac0fe8f08f31644b0a13"
+  },
+  "id": 13,
+  "name": "REALME",
+  "urlRewriteName": "realme",
+  "isDeleted": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6162e33ee8f08f31644b0a1a"
+  },
+  "id": 14,
+  "name": "NOKIA",
+  "urlRewriteName": "nokia",
+  "isDeleted": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6162e774e8f08f31644b0a1f"
+  },
+  "id": 15,
+  "name": "PHỤ KIỆN",
+  "urlRewriteName": "phu-kien",
+  "isDeleted": false,
+  "__v": 0
+}]

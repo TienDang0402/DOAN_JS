@@ -1,0 +1,104 @@
+[{
+  "_id": {
+    "$oid": "5f8b0dc2e95f47cdc246dc0a"
+  },
+  "id": 1,
+  "fullname": "admin",
+  "email": "admin@gmail.com",
+  "password": "$2a$16$7DNIJm6ye79xEyWDVwd88uuxZAt4LMkJ9heNIB7PD8zSlADMKFkPu",
+  "roles": [
+    "ADMIN",
+    "CUSTOMER"
+  ],
+  "photo": "1632966584445_anh.jpg"
+},{
+  "_id": {
+    "$oid": "5f9c4510a3de3a0c50c6ea43"
+  },
+  "id": 13,
+  "fullname": "Nguyễn Phương Nam",
+  "email": "phuongnamhd00@gmail.com",
+  "password": "$2a$16$gPTLCKrP6TAcd7.z1nwCV.r24j.Xoiw8Lue/PAKj9ev41h4Bq0lMW",
+  "roles": [
+    "CUSTOMER"
+  ],
+  "__v": 0,
+  "photo": "1632975395878_chon-nghe-2.jpg"
+},{
+  "_id": {
+    "$oid": "63f0d49852a0f124888ae834"
+  },
+  "id": 17,
+  "fullname": "Đặng lưu quốc tiến",
+  "email": "quoctien04022001@gmail.com",
+  "password": "$2a$16$8Lk8p99GaFjPNWJiVutRq.opgUyD2iNKg0nFW0RnL/JLI888XXQIS",
+  "roles": [
+    "CUSTOMER"
+  ],
+  "__v": 0,
+  "isDeleted": true
+},{
+  "_id": {
+    "$oid": "63f0d4a852a0f124888ae838"
+  },
+  "id": 21,
+  "fullname": "Đặng lưu quốc tiến",
+  "email": "quoctien04022001@gmail.com",
+  "password": "$2a$16$Y32fapha3Ogdn4yAvAuPpe1p5MM9URISTWyz1/MTAIapp.8o.SE82",
+  "roles": [
+    "CUSTOMER"
+  ],
+  "__v": 0,
+  "isDeleted": true
+},{
+  "_id": {
+    "$oid": "63f0d4a452a0f124888ae837"
+  },
+  "id": 18,
+  "fullname": "Đặng lưu quốc tiến",
+  "email": "quoctien04022001@gmail.com",
+  "password": "$2a$16$ZV04MphItYF9hzZNcAgFVOwDoce7bPvBj3xQu5WauMi3DYzgyzVbO",
+  "roles": [
+    "CUSTOMER"
+  ],
+  "__v": 0,
+  "isDeleted": true
+},{
+  "_id": {
+    "$oid": "63f0d4ac52a0f124888ae839"
+  },
+  "id": 20,
+  "fullname": "Đặng lưu quốc tiến",
+  "email": "quoctien04022001@gmail.com",
+  "password": "$2a$16$4Se0j0L3QBHwXC1L6m1Eju1HQPD0OhHe65Qy6I12l3y0OX7BgNZSW",
+  "roles": [
+    "CUSTOMER"
+  ],
+  "__v": 0,
+  "isDeleted": true
+},{
+  "_id": {
+    "$oid": "63f0d4a052a0f124888ae836"
+  },
+  "id": 19,
+  "fullname": "Đặng lưu quốc tiến",
+  "email": "quoctien04022001@gmail.com",
+  "password": "$2a$16$5kxUbZELblnqa2evZzU7lewlW2BzlRqs2jQ2TMqH1iuhENW3agTc6",
+  "roles": [
+    "CUSTOMER"
+  ],
+  "__v": 0,
+  "isDeleted": true
+},{
+  "_id": {
+    "$oid": "63f0d49c52a0f124888ae835"
+  },
+  "id": 22,
+  "fullname": "Đặng lưu quốc tiến",
+  "email": "quoctien04022001@gmail.com",
+  "password": "$2a$16$ERStzkKl/GNFKlSMEStpGumq6578xV5hKpXLcnmY5BqZLzJ699EKC",
+  "roles": [
+    "CUSTOMER"
+  ],
+  "__v": 0
+}]
